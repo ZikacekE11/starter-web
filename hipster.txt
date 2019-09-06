@@ -1,3 +1,7 @@
 Again and again and again... Just trying GIT.
 
 Continue with GIT, you don't have to read it.
+
+New lines..
+
+And again..
