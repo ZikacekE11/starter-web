@@ -16,3 +16,7 @@ Next line...
 New line in Deployment section.
 
 ## How to Contribute
+
+### Copyright
+
+2019 GIT.Training
