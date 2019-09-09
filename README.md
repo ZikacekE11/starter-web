@@ -17,6 +17,9 @@ New line in Deployment section.
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull Request for
+review.
+
 ### Copyright
 
 2019 GIT.Training
