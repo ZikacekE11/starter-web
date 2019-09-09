@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple example for learning GIT and connection 
-to GitHub. 
+to GitHub. Adding a line for rebasing sample.
 
 ## Introduction
 
