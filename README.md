@@ -1,7 +1,8 @@
 # Starter Web Project
 
 This is a simple example for learning GIT and connection 
-to GitHub. Adding a line for rebasing sample.
+to GitHub. Adding a line for rebasing sample, then more changes 
+from myfeature branch too.
 
 ## Introduction
 
